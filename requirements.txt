@@ -1,0 +1,12 @@
+numpy==1.26.4
+matplotlib==3.8.2
+ripser==0.6.8
+scikit-learn==1.3.2
+tqdm==4.66.3
+tensorly==0.8.1
+scipy==1.11.4
+opencv-python==4.9.0.80
+scikit-image==0.22.0
+xgboost==2.0.3
+lightgbm==4.3.0
+Pillow==10.2.0
