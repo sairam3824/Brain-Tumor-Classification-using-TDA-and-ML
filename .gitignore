@@ -1,11 +1,10 @@
 # macOS
 .DS_Store
 
-# Dataset
+# Dataset (large image files)
 Dataset/
 
-# Model files
-models/
+# Model output (generated plots + metrics, reproducible)
 models_output/
 
 # Python cache
